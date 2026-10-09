@@ -146,7 +146,7 @@ Puedes hacer la actividad de dos formas. Hay **un notebook para cada una**, con 
 
 ### 🌐 Opción 1 · Google Colab (la que usaremos en clase)
 
-Usa el notebook **`01_primeros_pasos_del_dato_a_la_decision_colab.ipynb`**. Es igual que el de VS Code, pero preparado para leer el CSV que tú subes a Colab.
+Usa el notebook **`01_primeros_pasos_del_dato_a_la_decision_colab.ipynb`**. Es igual que el de VS Code, pero preparado para leer el CSV que tú subes a Colab. Viene **sin resultados**, para que los descubras tú al ejecutar cada celda. La versión de VS Code se guarda con los resultados visibles, como referencia para comprobar los tuyos.
 
 1. Abre el notebook con tu cuenta de Google:
    **[Abrir la versión Colab](https://colab.research.google.com/github/MariaIsaDurango/primeros-pasos-dato-decision/blob/main/notebooks/01_primeros_pasos_del_dato_a_la_decision_colab.ipynb)**
