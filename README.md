@@ -136,7 +136,7 @@ Puedes hacer la actividad de dos formas. Hay **un notebook para cada una**, con 
 
 | | 🌐 Opción 1 · Google Colab | 💻 Opción 2 · Visual Studio Code |
 |---|---|---|
-| **Cuándo usarla** | En clase | En tu ordenador, sin depender de internet |
+| **Cuándo usarla** | En clase | En tu ordenador. Una vez instalado todo, funciona sin internet |
 | **Qué necesitas** | Navegador y cuenta de Google | Instalar Python, VS Code y las librerías |
 | **Notebook** | `…_colab.ipynb` | `01_primeros_pasos_del_dato_a_la_decision.ipynb` |
 | **Preparación** | Baja: abrir un enlace y subir el CSV | Media: unos 15 minutos la primera vez |
