@@ -349,4 +349,4 @@ Para practicar el `JOIN` se crea una tabla auxiliar, `regiones`, que traduce al 
 
 ---
 
-*Proyecto realizado como prueba técnica para el puesto de Formador/a Asistente de Data Analytics en Somos F5.*
+*Proyecto realizado como prueba técnica Formador/a Asistente de Data Analytics en Somos F5.*
