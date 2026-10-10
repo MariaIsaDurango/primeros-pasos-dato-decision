@@ -281,7 +281,6 @@ FileNotFoundError: [Errno 2] No such file or directory: 'data/raw_data.csv'
 2. **En VS Code:** comprueba que la ruta del código es `"../data/raw_data.csv"`.
 3. Comprueba que el archivo está realmente en la carpeta `data`, con ese nombre exacto (mira el panel izquierdo de VS Code o el icono de carpeta 📁 de Colab).
 4. **En VS Code:** comprueba que abriste la **carpeta del proyecto** (Paso 2) y que el notebook está dentro de `notebooks/`.
-5. Ojo con las carpetas que tienen **espacios** en el nombre, como `archive (4)`. En la terminal hay que escribir esas rutas **entre comillas**.
 
 ### Error 2 · Olvidar las comillas en SQL
 
