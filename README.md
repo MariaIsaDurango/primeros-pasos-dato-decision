@@ -139,7 +139,7 @@ Puedes hacer la actividad de dos formas. Hay **un notebook para cada una**, con 
 | **Cuándo usarla** | En clase | En tu ordenador. Una vez instalado todo, funciona sin internet |
 | **Qué necesitas** | Navegador y cuenta de Google | Instalar Python, VS Code y las librerías |
 | **Notebook** | `…_colab.ipynb` | `01_primeros_pasos_del_dato_a_la_decision.ipynb` |
-| **Preparación** | Baja: abrir un enlace y subir el CSV | Media: unos 15 minutos la primera vez |
+| **Preparación** | Sencilla: abrir un enlace y subir el CSV | Más pasos, solo la primera vez: instalar los programas, crear el entorno virtual e instalar las librerías |
 | **Dónde se guardan tus cambios** | En tu Google Drive, si guardas una copia | En tu ordenador |
 
 > Este proyecto se **desarrolló y probó en Visual Studio Code**. En clase usaremos **Google Colab**, porque no exige instalar nada y todo el grupo empieza en las mismas condiciones.
